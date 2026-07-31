@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-psn1g6.cleanyogaclub.com.br/sitemap.xml
